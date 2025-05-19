@@ -41,7 +41,8 @@ public class NewClass {
     
     System.out.println("\nArea do retangulo 2: " +ret2.calculararea());
     System.out.println("Perimetro do retangulo 2: " +ret2.calcularperimetro());
-    
+     
+     System.out.println("Area do retangulo: " +ret2.calcularperimetro());
     
     
     }
