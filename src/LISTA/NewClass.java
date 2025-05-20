@@ -16,7 +16,7 @@ public class NewClass {
     System.out.println("Digite Altura:");
     double altura1 = p.nextDouble();
     
-    retangulo ret1 = new retangulo(largura1, largura1);
+    retangulo ret1 = new retangulo(largura1, altura1);
     ret1.largura = largura1;
     ret1.altura = altura1;
     
@@ -33,7 +33,7 @@ public class NewClass {
     System.out.println("Digite Altura:");
     double altura2 = p.nextDouble();
     
-    retangulo ret2 = new retangulo(largura2, largura2);
+    retangulo ret2 = new retangulo(largura2, altura2);
     ret1.largura = largura2;
     ret1.altura = altura2;
     
@@ -42,7 +42,7 @@ public class NewClass {
     System.out.println("\nArea do retangulo 2: " +ret2.calculararea());
     System.out.println("Perimetro do retangulo 2: " +ret2.calcularperimetro());
      
-     System.out.println("Area do retangulo: " +ret2.calcularperimetro());
+    
     
     
     }
