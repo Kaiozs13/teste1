@@ -2,7 +2,7 @@
 package LISTA;
 import java.util.Scanner;
 
-public class NewClass {
+public class usandoretangulo {
     
     public static void main(String[] args) {
     

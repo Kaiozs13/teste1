@@ -31,7 +31,7 @@ public class pessoa {
     
      void apresentar(){
         
-       System.out.println("O profesorr"+ nome+",tem "+idade+ "e da aula da disciplina"+displina)
+      // System.out.println("O profesorr"+ nome+",tem "+idade+ "e da aula da disciplina");
         
     
     }
