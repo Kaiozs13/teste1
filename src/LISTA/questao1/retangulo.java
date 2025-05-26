@@ -1,4 +1,4 @@
-package LISTA;
+package LISTA.questao1;
 
 public class retangulo {
     double largura;

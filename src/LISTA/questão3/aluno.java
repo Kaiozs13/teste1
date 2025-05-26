@@ -1,5 +1,5 @@
 
-package LISTA;
+package LISTA.questão3;
 
 public class aluno {
     String nome;

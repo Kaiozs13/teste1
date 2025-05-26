@@ -1,4 +1,4 @@
-package LISTA.contas;
+package LISTA.questao2;
 import java.util.Scanner;
 
 public class banco {

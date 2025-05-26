@@ -1,5 +1,5 @@
 
-package LISTA;
+package LISTA.questão4;
 
 import java.util.Arrays;
 

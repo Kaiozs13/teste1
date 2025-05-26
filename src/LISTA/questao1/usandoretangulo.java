@@ -1,5 +1,5 @@
 
-package LISTA;
+package LISTA.questao1;
 import java.util.Scanner;
 
 public class usandoretangulo {

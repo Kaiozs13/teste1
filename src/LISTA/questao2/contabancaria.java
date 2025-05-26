@@ -1,4 +1,4 @@
-package LISTA.contas;
+package LISTA.questao2;
 public class contabancaria {
    
      double numero;
